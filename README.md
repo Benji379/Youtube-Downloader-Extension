@@ -1,8 +1,8 @@
 # Youtube Downloader Extension
 La extension agrega un boton en al video de youtube<br>
 ![image](https://github.com/Benji379/Youtube-Downloader-Extension/assets/108637204/420b4971-c530-4c36-b6f2-2a05bbabc412)
-![image](https://github.com/Benji379/Youtube-Downloader-Extension/assets/108637204/ba2d0560-e561-409e-a759-5e0b1ae2b456)
-en caso de que no te aparezca refrescas la página<br>
+![image](https://github.com/Benji379/Youtube-Downloader-Extension/assets/108637204/e09ff0ef-7740-4353-b4d4-34b824621ef6)
+<br>En caso de que no te aparezca refrescas la página<br>
 
 Extrae y/o abre la carpeta extraida<br>
 ![image](https://github.com/Benji379/Youtube-Downloader-Extension/assets/108637204/76988049-ee56-4a56-9066-b12871933461)
