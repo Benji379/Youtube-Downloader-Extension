@@ -1,4 +1,5 @@
 # Youtube Downloader Extension
+
 La extension agrega un boton en al video de youtube<br>
 ![image](https://github.com/Benji379/Youtube-Downloader-Extension/assets/108637204/e09ff0ef-7740-4353-b4d4-34b824621ef6)
 <br>En caso de que no te aparezca refrescas la página<br>
@@ -17,7 +18,7 @@ Extrae y/o abre la carpeta extraida<br>
 # AGREGAR LA EXTENSION AL NAVEGADOR
 en este caso usaré Chrome (puedes usar el navegador de tu preferencia)
 
-3. Abre tu navegador y pega esta direccion ["chrome://extensions/"](chrome://extensions/)
+3. Abre tu navegador y pega esta direccion ["chrome://extensions/"](chrome://extensions/)<br>
 ![image](https://github.com/Benji379/Youtube-Downloader-Extension/assets/108637204/b8865810-a331-4ba1-83cb-afbf211b3a25)
 
 4. Activa el Modo Desarrollador o el Modo para derrolladores (el nombre cambia poco dependiendo del navegador)<br>
