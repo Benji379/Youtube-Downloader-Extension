@@ -1,7 +1,7 @@
 ----PASOS PARA LA INSTALACION---
 
 1-  ABRE LA CARPETA CONFIG
-2-  EJECUTA EL ARCHIVO "Configurar.bat"
+2-  EJECUTA COMO ADMINISTRADOR EL ARCHIVO "Configurar.bat"
 
 -- AGREGAR LA EXTENSION AL CHROME (o tu navegador de preferencia)---
 
