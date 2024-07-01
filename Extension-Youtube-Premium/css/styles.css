@@ -1,0 +1,70 @@
+#download-button {
+    background-color: rgba(45, 45, 45, 0.8);
+    color: #FFFFFF;
+    border: none;
+    padding: 6px 15px;
+    margin: 0 5px;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+}
+
+#format-buttons-container {
+    background-color: rgba(43, 43, 43, 0.8);
+    padding: 10px;
+    border-radius: 10px;
+    position: absolute;
+    z-index: 1000;
+}
+
+#mp3-download-button, #mp4-download-button {
+    background-color: rgba(40, 40, 40, 0.8);
+    color: #FFFFFF;
+    border: none;
+    padding: 8px 20px;
+    margin: 5px;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+}
+
+#mp3-download-button::before,
+#mp4-download-button::before {
+    content: '';
+    /*background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 24 24"><path fill="none" stroke="%23404040" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 15V3m0 12l-4-4m4 4l4-4M2 17l.621 2.485A2 2 0 0 0 4.561 21h14.878a2 2 0 0 0 1.94-1.515L22 17"/></svg>');*/
+    /*background-size: contain;*/
+    /*background-repeat: no-repeat;*/
+    
+    /*width: 20px;*/
+    /*height: 20px;*/
+    /*margin-right: 5px;*/
+}
+
+#mp3-download-button:hover{
+    background-color: rgba(60, 60, 60, 0.8);
+}
+#mp4-download-button:hover{
+    background-color: rgba(60, 60, 60, 0.8);
+}
+#download-button:hover{
+    background-color: rgba(60, 60, 60, 0.8);
+}
+
+#mp3-download-button:focus{
+    outline: none;
+}
+#mp4-download-button:focus {
+    outline: none;
+}

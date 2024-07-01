@@ -1,0 +1,20 @@
+----PASOS PARA LA INSTALACION---
+
+1-  ABRE LA CARPETA CONFIG
+2-  EJECUTA EL ARCHIVO "Configurar.bat"
+
+-- AGREGAR LA EXTENSION AL CHROME (o tu navegador de preferencia)---
+
+3- Abre tu navegador y pega esta direccion "chrome://extensions/"
+4- Activa el Modo Desarrollador o el Modo para derrolladores (el nombre cambia poco dependiendo del navegador)
+5- Click al boton Cargar descomprimida o Cargar desempaquetada (el nombre cambia poco dependiendo del navegador)
+6- Selecciona la direccion de la carpeta "Extension-Youtube-Premium"
+
+
+AYUDA:
+
+ - En caso de que cuando prendas tu PC o laptop tu extension no funcione al presionar cualquier boton de mp3 o mp4 dar doble click o ejecutar el archivo "youtube_downloader.exe" dentro de la carpeta youtube_downloader.exe
+
+ - Para resolver cualquier duda o consula entrar al Discord https://discord.gg/zYErqW9GmM o dejar comantarios en el repositorio de Github (https://github.com/Benji379/Youtube-Downloader-Extension/issues/new) --dejas tu comentario--
+
+REPOSITORIO DE LA EXTENSION: https://github.com/Benji379/Youtube-Downloader-Extension.git
