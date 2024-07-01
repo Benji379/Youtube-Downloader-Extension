@@ -11,7 +11,8 @@ Extrae y/o abre la carpeta extraida<br>
 2. EJECUTA EL ARCHIVO "Configurar.bat"<br>
 ![image](https://github.com/Benji379/Youtube-Downloader-Extension/assets/108637204/9a80e19a-04ac-44b6-8211-0350f511054b)
 
-# AGREGAR LA EXTENSION AL CHROME (o tu navegador de preferencia)
+# AGREGAR LA EXTENSION AL NAVEGADOR
+en este caso usaré Chrome (puedes usar el navegador de tu preferencia)
 
 3. Abre tu navegador y pega esta direccion ["chrome://extensions/"](chrome://extensions/)
 ![image](https://github.com/Benji379/Youtube-Downloader-Extension/assets/108637204/b8865810-a331-4ba1-83cb-afbf211b3a25)
@@ -31,5 +32,4 @@ Extrae y/o abre la carpeta extraida<br>
 
  - Para resolver cualquier duda o consula entrar al Discord [Server de Discord](https://discord.gg/zYErqW9GmM)
  - o dejas comantarios en el repositorio de Github [Dejar mi comentario](https://github.com/Benji379/Youtube-Downloader-Extension/issues/new)
-
-REPOSITORIO DE LA EXTENSION: ["Youtube Extension Downloader"](https://github.com/Benji379/Youtube-Downloader-Extension.git)
+ - REPOSITORIO DE LA EXTENSION: ["Youtube Extension Downloader"](https://github.com/Benji379/Youtube-Downloader-Extension.git)
