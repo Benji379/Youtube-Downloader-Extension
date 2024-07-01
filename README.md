@@ -12,7 +12,7 @@ Extrae y/o abre la carpeta extraida<br>
 1. ABRE LA CARPETA CONFIG<br>
 ![image](https://github.com/Benji379/Youtube-Downloader-Extension/assets/108637204/a0c836dd-1761-41bc-9891-d302b1e293bd)
 
-2. EJECUTA EL ARCHIVO "Configurar.bat"<br>
+2. EJECUTA COMO ADMINISTRADOR EL ARCHIVO "Configurar.bat"<br>
 ![image](https://github.com/Benji379/Youtube-Downloader-Extension/assets/108637204/9a80e19a-04ac-44b6-8211-0350f511054b)
 
 # AGREGAR LA EXTENSION AL NAVEGADOR
